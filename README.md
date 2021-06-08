@@ -3,6 +3,7 @@
 
 + Afin de gagner du temps les dépots souhaitée possède un préfixe CDA.
 + Il est possible que certain dépôt évolue avec le temps.
++ Ce n'est pas parce que je ne suis pas sur Discord que je suis absent (consome inutilement des data, distraction)
 
 ____
 
