@@ -11,5 +11,5 @@ ____
 ### En ce moment (ce dont j'ai besoin) : 
 
  #### Se familiariser avec :
-+ [serveur SQL](https://docs.microsoft.com/fr-fr/sql/sql-server/?view=sql-server-ver15)
++ [serveur SQL] (pas wamp)
 + PHP Storm
