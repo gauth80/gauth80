@@ -13,3 +13,17 @@ ____
  #### Se familiariser avec :
 + serveur SQL (pas wamp)
 + PHP Storm
+
+### Ce que je fais en ce moment :
+
++ SQL : views - transaction (sql/php) - procédure stockée - Triggers
++ php poo
++ Velvet record
++ mise en pratique de ReactJs (pour ne pas trop rouillée)
++ cv, lettre de motivation et cie.
+
+### Ce dont qui me ralentis :
+
++ Peu de doc concrete sur phpstorm
++ php8 et TPC fonctionnelle une fois sur deux
++ le manque de sommeil
