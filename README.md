@@ -17,13 +17,12 @@ ____
 ### Ce que je fais en ce moment :
 
 + SQL : views - transaction (sql/php) - procédure stockée - Triggers
-+ php poo
-+ Velvet record
++ php poo (DAO)
++ Velvet record (php & sass)
 + mise en pratique de ReactJs (pour ne pas trop rouillée)
 + cv, lettre de motivation et cie.
 
 ### Ce dont qui me ralentis :
 
-+ Peu de doc concrete sur phpstorm
-+ php8 et TPC fonctionnelle une fois sur deux
++ chcp qui n'est pas executée via mysql Workbench, du coup pas de serveur propre.
 + le manque de sommeil
