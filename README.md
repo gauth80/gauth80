@@ -16,13 +16,11 @@ ____
 
 ### Ce que je fais en ce moment :
 
++ Symfo
 + SQL : views - transaction (sql/php) - procédure stockée - Triggers
 + php poo (DAO)
-+ Velvet record (php & sass)
-+ mise en pratique de ReactJs (pour ne pas trop rouillée)
 + cv, lettre de motivation et cie.
 
 ### Ce dont qui me ralentis :
 
-+ chcp qui n'est pas executée via mysql Workbench, du coup pas de serveur propre.
 + le manque de sommeil
