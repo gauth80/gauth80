@@ -17,6 +17,7 @@ ____
 ### Ce que je fais en ce moment :
 
 + Symfo
++ ApiPlatform
 + SQL : views - transaction (sql/php) - procédure stockée - Triggers
 + php poo (DAO)
 + cv, lettre de motivation et cie.
