@@ -11,17 +11,11 @@ ____
 ### En ce moment (ce dont j'ai besoin) : 
 
  #### Se familiariser avec :
-+ serveur SQL (pas wamp)
 + PHP Storm
 
 ### Ce que je fais en ce moment :
 
 + Symfo
-+ ApiPlatform
-+ SQL : views - transaction (sql/php) - procédure stockée - Triggers
-+ php poo (DAO)
++ SQL 
++ ReactJs
 + cv, lettre de motivation et cie.
-
-### Ce dont qui me ralentis :
-
-+ le manque de sommeil
