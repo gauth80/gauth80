@@ -8,14 +8,20 @@
 
 ____
 
-### En ce moment (ce dont j'ai besoin) : 
+### Objectif
 
- #### Se familiariser avec :
-+ PHP Storm
-
-### Ce que je fais en ce moment :
-
-+ Symfo
-+ SQL 
-+ ReactJs
-+ cv, lettre de motivation et cie.
+ + Maquetter une application.
+ + Développer une interface utilisateur de type desktop.
+ + Développer des composants d'accès aux données.
+ + Développer la partie front-end d'une interface utilisateur web.
+ + Développer la partie back-end d'une interface utilisateur web.
+ + Mettre en place une base de données.
+ + Développer des composants dans le langage d'une base de données.
+ + Concevoir et développer une application multicouche répartie en intégrant les recommandations de sécurité
+ + Collaborer à la gestion d'un projet informatique et à l'organisation de l'environnement de développement.
+ + Concevoir une application.
+ + Développer des composants métier.
+ + Construire une application organisée en couches.
+ + Développer une application mobile.
+ + Préparer et exécuter les plans de tests d'une application.
+ + Préparer et exécuter le déploiement d'une application.
